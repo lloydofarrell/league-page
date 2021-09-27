@@ -7,9 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>The NFSL Dynasty league was established in the depths of the Covid 19 Pandemic. The erstwhile members of the NFSL Redraft league were in search of ways and means to amuse themselves while finding a truer test of fantasy expertise in the process. Thus, NFSL Dynasty was born. A true test of Fantasy Football acumen and strategy.</p>
-  <p>When the league was formed Tom Gallagher purchased a Dynasty strategy guide, executed an exceptional start up draft and proceeded to become the inaugral NFSL Dynasty Champion. His win was a worthy one in the end, and he justly holds the "Le Dildeirdre".</p>
-  <p>Season Two is now underway and will be a keenly contested affair, with 8 strong teams duking it out for the Championship.</p>
+  <p>The NFSL Dynasty league was established in the depths of the Covid 19 Pandemic. The erstwhile members of the NFSL Redraft league were in search of ways and means to distract themselves from the existential global crisis while finding a truer test of fantasy expertise in the process. Thus, NFSL Dynasty was born. The ultimate test of Fantasy Football acumen and strategy.</p>
+  <p>When the league was formed Tom Gallagher purchased a Dynasty strategy guide, executed an exceptional start up draft and proceeded to become the inaugral NFSL Dynasty Champion. His win was a worthy one in the end, and he justly holds the "Le Dildeirdre". The League office finds his chosen team name to be less exceptional, but accepts that nothing is perfect in this changing world.</p>
+  <p>Season Two is now underway and will be a keenly contested affair, with 8 strong teams duking it out for the Championship Classico.</p>
   <p>The NFSL Dynasty Commissioner office would like to publicly record their gratitude for the continued hard work and innovative contributions of the league Treasurer, Neil Gleeson.</p>
 
 `;
