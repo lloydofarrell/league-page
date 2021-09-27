@@ -7,12 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>The NFSL Dynasty league was established in the depths of the Covid 19 Pandemic. The erstwhile members of the NFSL Redraft league were in search of ways and means to amuse themselves while finding a truer test of fantasy expertise in the process. Thus, NFSL Dynasty was born. A true test of Fantasy Football acumen and strategy.</p>
+  <p>When the league was formed Tom Gallagher purchased a Dynasty strategy guide, executed an exceptional start up draft and proceeded to become the inaugral NFSL Dynasty Champion. His win was a worthy one in the end, and he justly holds the "Le Dildeirdre".</p>
+  <p>Season Two is now underway and will be a keenly contested affair, with 8 strong teams duking it out for the Championship.</p>
+  <p>The NFSL Dynasty Commissioner office would like to publicly record their gratitude for the continued hard work and innovative contributions of the league Treasurer, Neil Gleeson.</p>
+
 `;
 
 /*   STEP 3   */
